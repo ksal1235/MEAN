@@ -67,8 +67,6 @@ B. Add MongoDB Repository: Create a MongoDB list file in /etc/apt/sources.list.d
 ```
 echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
 ```
-![image](https://github.com/user-attachments/assets/a7eb5053-5307-4dec-b8fc-e77d21039f2c)
-
 
 C. Updating the machine Again
 
@@ -76,9 +74,7 @@ C. Updating the machine Again
 
 ![image](https://github.com/user-attachments/assets/e5b8380f-1a5f-4eb0-9398-c3e6066fe81f)
 
-
 D. Installing MongoDB
-
 ```
 sudo apt install -y mongodb-org
 ```
