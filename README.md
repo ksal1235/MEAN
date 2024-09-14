@@ -10,7 +10,7 @@ MEAN Web stack consists of following components:
 3. Angular (Front-end application framework) - Handles Client and Server Requests
 4. Node.js (JavaScript runtime environment) - Accepts requests and displays results to end user.
 
-##Step 0 - Preparing prerequisites:
+## Step 0 - Preparing prerequisites:
 In order to complete this project we will need an AWS account  and a virtual server with Ubuntu Server OS.
 
 # Provisioning a new EC2 instance of t2.micro family with Ubuntu Server 24.04 LTS (HVM):
