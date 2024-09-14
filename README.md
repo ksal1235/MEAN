@@ -1,2 +1,3 @@
-# MEAN
-MEAN Stack Deployment to Ubuntu in AWS
+# 🚀 Welcome to MEAN project!
+
+# MEAN Stack Deployment to Ubuntu in AWS
