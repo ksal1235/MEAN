@@ -6,7 +6,7 @@ In this project, We are tasked to implement a web solution based on MEAN stack i
 
 MEAN Web stack consists of following components:
 1. Mongodb: A document-based, No-SQL database used to store application data in a form of documents.
-2. Expressjs: A server side Web Application framework for Back-end application framework.
+2. Expressjs: A server side Web Application framework for Back-end application.
 3. Angular (Front-end application framework) - Handles Client and Server Requests
 4. Node.js (JavaScript runtime environment) - Accepts requests and displays results to end user.
 
