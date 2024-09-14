@@ -377,3 +377,4 @@ It shall return an HTML page, it is hardly readable in the CLI, but we can also 
 ![image](https://github.com/user-attachments/assets/3bbb7a94-a98d-4909-8acc-8029ab8f5d2d)
 
 # Conclusion:-
+Based on the details provided, the conclusion about the MEAN project could include a summary of the successful implementation of the web solution using the MEAN stack on the AWS Cloud. It could also mention the integration of Node.js, MongoDB, Express, and AngularJS, along with the deployment details and server configuration.  
