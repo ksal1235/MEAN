@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dac54a48-68c3-42b4-b76b-42f9e3bac722)# 🚀 Welcome to MEAN project!
+# 🚀 Welcome to MEAN project!
 
 # MEAN Stack Deployment to Ubuntu in AWS.
 
@@ -89,6 +89,7 @@ E. Start MongoDB: Start the MongoDB service and enable it to start automatically
 sudo systemctl start mongod
 sudo systemctl enable mongod
 ```
+
 ![image](https://github.com/user-attachments/assets/1e818af7-1127-4dd8-95a2-18c700217c02)
 
 F. Check MongoDB Status: Verify that MongoDB is running.
